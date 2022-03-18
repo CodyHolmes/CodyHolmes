@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hi there, I'm Cody! 👋</h2>
+<img align='right' src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e478cxvqgfgoidmvwprw795k5iwtythsc38tt5n4w60&amp;rid=giphy.gif&amp;ct=g" width="500">
+<p>
+  <em>Lead Product Developer at ManagingEnergy</em>
+</p>
 
-<!--
-**CodyHolmes/CodyHolmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: codyholmes](https://img.shields.io/badge/-codyholmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codyholmes/)](https://www.linkedin.com/in/codyholmes/)
+[![GitHub CodyHolmes](https://img.shields.io/github/followers/CodyHolmes?label=follow&style=social)](https://github.com/CodyHolmes)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he / him
+- 🔭 I’m currently working with: JS/NodeJS, Typescript, React, SQL, C#, Python
+- 🌱 I’m currently learning more about: System Design & Scalability 
+- 📫 How to reach me: codyholmes0@gmail.com
+- ⚡ Fun fact: Canada eats more macaroni and cheese than any other place
